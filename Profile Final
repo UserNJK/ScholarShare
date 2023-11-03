@@ -48,4 +48,4 @@ class BuildProfileWidget:
 if __name__ == "__main__":
     root = tk.Tk()
     app = BuildProfileWidget(root)
-    root.mainloop()
+    root.mainloop(
